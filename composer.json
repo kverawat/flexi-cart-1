@@ -1,0 +1,36 @@
+{
+    "name": "projectorangebox/flexi-cart",
+    "description": "Flexi Cart",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/ProjectOrangeBox",
+    "keywords": [
+        "codeigniter",
+        "framework",
+        "orange"
+    ],
+    "authors": [
+        {
+            "name": "Don Myers",
+            "email": "donmyers@projectorangebox.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "projectorangebox/orange": "dev-master",
+        "projectorangebox/theme-orange": "dev-master",
+        "projectorangebox/dropdowns": "dev-master"
+    },
+    "orange": {
+        "version": "1.0.0",
+        "type": "package",
+        "priority": 50,
+        "notes": "",
+        "cli": {},
+        "help": "",
+        "tables": "",
+        "access": "",
+        "menubar": "",
+        "setting": ""
+    }
+}

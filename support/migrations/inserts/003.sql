@@ -1,0 +1,14 @@
+INSERT INTO `discount_methods` VALUES ('1', '1', '1', '1', 'Item Price - Percentage Based');
+INSERT INTO `discount_methods` VALUES ('2', '1', '1', '2', 'Item Price - Flat Fee');
+INSERT INTO `discount_methods` VALUES ('3', '1', '1', '3', 'Item Price - New Value');
+INSERT INTO `discount_methods` VALUES ('4', '1', '2', '1', 'Item Shipping - Percentage Based');
+INSERT INTO `discount_methods` VALUES ('5', '1', '2', '2', 'Item Shipping - Flat Fee');
+INSERT INTO `discount_methods` VALUES ('6', '1', '2', '3', 'Item Shipping - New Value');
+INSERT INTO `discount_methods` VALUES ('7', '2', '3', '1', 'Summary Item Total - Percentage Based');
+INSERT INTO `discount_methods` VALUES ('8', '2', '3', '2', 'Summary Item Total - Flat Fee');
+INSERT INTO `discount_methods` VALUES ('9', '2', '4', '1', 'Summary Shipping Total - Percentage Based');
+INSERT INTO `discount_methods` VALUES ('10', '2', '4', '2', 'Summary Shipping Total - Flat Fee');
+INSERT INTO `discount_methods` VALUES ('11', '2', '4', '3', 'Summary Shipping Total - New Value');
+INSERT INTO `discount_methods` VALUES ('12', '2', '5', '1', 'Summary Total - Percentage Based');
+INSERT INTO `discount_methods` VALUES ('13', '2', '5', '2', 'Summary Total - Flat Fee');
+INSERT INTO `discount_methods` VALUES ('14', '3', '6', '2', 'Summary Total - Flat Fee (Voucher)');
